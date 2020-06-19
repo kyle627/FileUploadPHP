@@ -1,1 +1,1 @@
-# FileUploadPHP
+FileUploadPHP is a small program created for learning purposes that utilizes PHP, HTML and raw CSS that allows a user to upload a file. This program is specifically designed to only allow for photos with the file type "jpg, jpeg and png" to be uploaded. Photos are also all given a time specific name.
